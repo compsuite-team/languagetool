@@ -69,7 +69,7 @@
         <dependency>
             <groupId>org.languagetool</groupId>
             <artifactId>languagetool-core</artifactId>
-            <version>${languagetool.version}</version>
+            <version>4.7</version>
         </dependency>
 
         <dependency>
