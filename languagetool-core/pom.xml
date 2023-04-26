@@ -168,7 +168,7 @@
             <!-- so we can open indexed created with older versions of Lucene -->
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-backward-codecs</artifactId>
-            <version>${lucene.version}</version>
+            <version>8.3.1</version>
         </dependency>
         <dependency>
             <groupId>edu.berkeley.nlp</groupId>
