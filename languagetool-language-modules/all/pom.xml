@@ -75,7 +75,7 @@
         <dependency>
             <groupId>org.languagetool</groupId>
             <artifactId>language-pl</artifactId>
-            <version>${languagetool.version}</version>
+            <version>4.7</version>
         </dependency>
         <dependency>
             <groupId>org.languagetool</groupId>
